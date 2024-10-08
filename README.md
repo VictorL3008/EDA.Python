@@ -17,4 +17,8 @@ Proyectos:
  - Python ( pandas,numpy,matplotlib.pyplot,seaborn,plotly.express,plotly.graph_objects )
 
  Insights clave:
- -
+ - Distribución de hospitales: El conjunto de datos abarca admisiones de 44 hospitales, siendo LLC Smith el más frecuente.
+ - Rango de edad en pacientes: Los pacientes tienen una edad de entre 13 a 89 años, con un promedio aproximado de 52 años.
+
+
+2.-
