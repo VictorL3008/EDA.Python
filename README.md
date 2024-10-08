@@ -6,5 +6,5 @@ Lenguajes de Programación: Python, SQL
 
 Herramientas de Visualización: Power BI, Tableau
 
-Otros: DAX, manejo de bases de datos, modelos entidad-relación, etc.
+Otros: DAX, manejo de bases de datos, modelos entidad-relación,uso avanzado de Excel,etc.
 
