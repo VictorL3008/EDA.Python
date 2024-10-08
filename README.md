@@ -11,4 +11,4 @@ Otros: DAX, manejo de bases de datos, modelos entidad-relación,uso avanzado de 
 Proyectos:
 
 1.- HealthCare_EDA:
- Es un analisis exploratorio de datos sobre 
+ Es un analisis exploratorio de datos sobre hospitales y sus pacientes 
