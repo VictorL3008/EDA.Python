@@ -8,3 +8,7 @@ Herramientas de Visualización: Power BI, Tableau
 
 Otros: DAX, manejo de bases de datos, modelos entidad-relación,uso avanzado de Excel,etc.
 
+Proyectos:
+
+1.- HealthCare_EDA:
+ Es un analisis exploratorio de datos sobre 
